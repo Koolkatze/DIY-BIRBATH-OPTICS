@@ -1,7 +1,8 @@
 # DIY-BIRBATH-OPTICS
 Here you have a way to use birdbath optics at home with easy and replaceable parts. 
 
-<img width="1260" height="2800" alt="45122" src="https://github.com/user-attachments/assets/cbc2951a-813a-412b-872c-eeb374ed667c" />
+<img width="3574" height="2012" alt="45123" src="https://github.com/user-attachments/assets/7d474db9-8f9c-41d5-8ce4-f9395bd82029" />
+
 
 PARTS:
 1. The 3D modeled monocle (provided as STL file):
