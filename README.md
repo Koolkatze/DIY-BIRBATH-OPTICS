@@ -5,7 +5,7 @@ Here you have a way to use birdbath optics at home with easy and replaceable par
 
 
 PARTS:
-1. The 3D modeled monocle (provided as STL file):
+1. The 3D modeled monocle and lid for lens (provided as STL files):
 It serves as a base for your design and as the support for the optics of the AR VISOR. It can be 3d printed in various materials but try not to use corrosive materials for your skin.
 2. The translucent Mirror:
 It is a shiny transluvent piece piece of glass used to reflect the image of the display into the rounded LENS and has to be cut to fit the design: it has to be at least 15mm aprox. in height and 40mm width. It has to be placed in the middle of the lens with 45° angle to reflect the display.
