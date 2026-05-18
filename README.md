@@ -17,6 +17,6 @@ Link to christmas ball: https://es.aliexpress.com/item/1005010178467330.html?spm
 It´s a 0,71 micro-display with a micro-HDMI image input board: https://es.aliexpress.com/item/1005007081265357.html?spm=a2g0o.order_list.order_list_main.25.3dd0194dt1m62o&gatewayAdapt=glo2esp
 It will be looking downwards to the mirror, placed inside the holder of the top of monocle.
 7. Any PC, SBC, Phone to output image via micro-HDMI.
-8. The stencil: a 4cm diameter christmas ball splitted in half (wich is normally the transparent christmas ball way of filling it with any glitter or decoration so you will find all transparent christmas balls to be splittable in half). It will be used to mark down the 4cm diameter circle on the 9cm lens to be cut with the saw afterwards.
+8. The stencil: a 4cm diameter christmas ball splitted in half (wich is normally the transparent christmas ball way of filling it with any glitter or decoration so you will find all transparent christmas balls to be splittable in half). It will be used to mark down the 4cm diameter circle on the 8cm lens to be cut with the saw afterwards.
 
 
